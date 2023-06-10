@@ -14,7 +14,6 @@ from discord.ext import commands
 import colorama
 from colorama import Fore
 import asyncio
-from webserver import keep_alive
 from pystyle import Colors, Colorate
 import pytz
 
