@@ -1,0 +1,7 @@
+discord.py-self
+colorama
+pystyle
+datetime
+requests 
+discord-webhook
+blockcypher
